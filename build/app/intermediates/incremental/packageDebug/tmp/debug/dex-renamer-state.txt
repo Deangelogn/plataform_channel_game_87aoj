@@ -1,0 +1,4 @@
+#Wed Sep 21 21:00:17 BRT 2022
+base.0=C\:\\Users\\logonrmlocal\\github\\plataform_channel_game_87aoj\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
